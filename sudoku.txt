@@ -1,0 +1,19 @@
+Aide de l'atelier
+
+1)
+
+on va checker toutes les lignes, dès que l'on trouve un underscore, on doit mettre un nombre
+compris entre 1 et 9
+
+2)
+
+Ce nombre on va l'appeler x. x doit respecter trois contraintes
+- la ligne doit être ok ( le x doit apparaitre une fois par ligne )
+- la colonne doit être ok
+- le carré doit être ok
+
+Ensuite on recommence l'étape 1
+
+3)
+
+enfin 
